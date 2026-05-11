@@ -52,3 +52,18 @@ INSERT INTO raw_transactions VALUES
 (10, 102, 5, 'Food',          45000, 'completed', '2024-01-13 08:00:00'),
 (11, 101, 1, 'Electronics', 1500000, 'completed', '2024-01-05 10:00:00'),
 (12, 105, 2, 'Fashion',      250000, 'completed', '2024-01-14 13:00:00');
+
+
+CREATE TABLE products (
+  id INT,
+  name VARCHAR(100),
+  category VARCHAR(50),
+  cost_price DECIMAL(10,2)
+);
+
+INSERT INTO products VALUES
+(1, 'iPhone 15',      'Electronics', 1200000),
+(2, 'Kemeja Polos',   'Fashion',      180000),
+(3, 'Samsung Galaxy', 'Electronics',  600000),
+(4, 'Celana Jeans',   'Fashion',      120000),
+(5, 'Nasi Goreng Box','Food',          30000);
