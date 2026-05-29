@@ -9,7 +9,7 @@ Leveraging my background in Software Quality Assurance and previous data-focused
 To keep environments clean and mirror production standards, my end-to-end projects are hosted in separate repositories:
 
 * 📍 **[This Repo] de-learning-journey:** Daily code snippets, SQL advanced queries, and pandas exploration.
-* 🚧 **[Upcoming]
+* 🚧 **[Github Trending pipeline](https://github.com/fhmyazz/github-trending-pipeline)**
 
 ## 📖 Background
 I am currently a Software QA Engineer at Mandiri Utama Finance with over 4 years of experience in manual and automated testing. My recent focus has been on building an SDET portfolio involving UI/API automation (Playwright) and CI/CD pipelines using GitHub Actions. 
